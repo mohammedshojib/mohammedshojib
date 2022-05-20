@@ -1,6 +1,24 @@
 <h1 align="center">Hi 👋, I'm mohammed shojib</h1>
 <h3 align="center">A passionate FullStack developer from Bangladesh</h3>
 
+- 🔭 I’m currently working on [FCASH](#)
+
+- 🌱 I’m currently learning **Next.js, Strapi**
+
+- 👯 I’m looking to collaborate on [SoftyByte](#)
+
+- 👨‍💻 All of my projects are available at [#](#)
+
+- 📝 I regularly write articles on [#](#)
+
+- 💬 Ask me about **Anythink**
+
+- 📫 How to reach me **asmdshojib11@gmail.com**
+
+- 📄 Know about my experiences [#](#)
+
+- ⚡ Fun fact **I Loved Money**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-shojib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-shojib" height="30" width="40" /></a>
