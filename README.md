@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm mohammed shojib</h1>
 <h3 align="center">A passionate FullStack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [FCASH](#)
+- 🔭 I’m currently working on [FKASH](#)
 
-- 🌱 I’m currently learning **Next.js, Strapi**
+- 🌱 I’m currently learning **Next.js, Strapi, Redux**
 
 - 👯 I’m looking to collaborate on [SoftyByte](#)
 
@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **asmdshojib11@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 My Resume [Download](https://drive.google.com/file/d/13c29vCC4tJBOmlVSdHN4_4XCHEn7k3-a/view?usp=sharing)
 
 - ⚡ Fun fact **I Loved Money**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammed-shojib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-shojib" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammedshojib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-shojib" height="30" width="40" /></a>
 <a href="https://fb.com/shojib.ahred" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shojib.ahred" height="30" width="40" /></a>
 </p>
 
