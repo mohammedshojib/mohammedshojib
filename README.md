@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm mohammed shojib</h1>
-<h3 align="center">A passionate FullStack developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm ABDULLAH SAJIB</h1>
+<h3 align="center">A passionate FullStack developer from Sydney</h3>
 
 - 🔭 I’m currently working on [FKASH](#)
 
